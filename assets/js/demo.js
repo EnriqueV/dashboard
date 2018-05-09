@@ -284,7 +284,7 @@ demo = {
 
 
         var data = {
-            labels: ['Nogestal', 'Deprexone', 'Citrogen'],
+            labels: ['Nogestal -1', 'Deproxone', 'Cytrogen Depot'],
             series: [
                 [150,100,50]
             ]
