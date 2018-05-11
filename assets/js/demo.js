@@ -253,7 +253,7 @@ demo = {
         // lbd.startAnimationForLineChart(chartHours);
 
         var data = {
-            labels: ['Ios', 'Android'],
+            labels: ['Guatemala', 'El Salvador'],
             series: [
                 [50,100],
                 [50, 75]
@@ -284,7 +284,7 @@ demo = {
 
 
         var data = {
-            labels: ['Nogestal -1', 'Deproxone', 'Cytrogen Depot'],
+            labels: ['Nogestal -1', 'Deproxone', 'Gytrogen Depot'],
             series: [
                 [150,100,50]
             ]
@@ -321,6 +321,7 @@ demo = {
         //         [12, 17, 7, 17, 23, 18, 38]
         //     ]
         // };
+
         //
         // optionsDailySalesChart = {
         //     lineSmooth: Chartist.Interpolation.cardinal({
