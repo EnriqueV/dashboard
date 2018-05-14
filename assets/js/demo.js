@@ -253,10 +253,11 @@ demo = {
         // lbd.startAnimationForLineChart(chartHours);
 
         var data = {
-            labels: ['Guatemala', 'El Salvador'],
+            labels: ['Guatemala', 'El Salvador','Honduras', 'Nicaragua','Panama','Venezuela'],
             series: [
-                [50,100],
-                [50, 75]
+                [50,100,10,5,3,1],
+                [50, 75,15,2,7,5]
+
             ]
         };
 
